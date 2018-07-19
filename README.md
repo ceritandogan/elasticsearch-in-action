@@ -12,12 +12,8 @@ to index that data.
 How do I index the sample data?
 -------------------------------
 
-    # clone the repository
-    git clone https://github.com/dakrone/elasticsearch-in-action.git
-
-    # OR, if using Elasticsearch 5.0+, use the 5.x branch
-    git clone https://github.com/dakrone/elasticsearch-in-action.git -b 5.x
-
+    # clone the repository for ElasticSearch 6.x
+     git clone https://github.com/ceritandogan/elasticsearch-in-action.git
     # index the sample data
     elasticsearch-in-action/populate.sh
 
